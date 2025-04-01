@@ -1,0 +1,5 @@
+Codigo para cambiar nombre de tu dominio de HESTIA 
+
+cd /usr/local/hestia/bin/
+v-change-sys-hostname luisreylara.tech
+v-add-letsencrypt-host
