@@ -24,7 +24,7 @@
 18) POSTMAN [POSTMAN](https://www.postman.com/) [REPOSITORIO POSTMAN](https://github.com/Ale1203-gg/POSTMAN.git)
 20) Primeros pasos con github [GITHUB](https://codegym.cc/es/groups/posts/es.379.primeros-pasos-con-git-una-guia-completa-para-principiantes?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOSzabMLHpRMMuS289T6E0aC_ysnrhs6xrA&s) [REPOSITORIO GITHUB](https://github.com/Ale1203-gg/QESGITHUB.git)
 
-21) Github [REPOSITORIO](https://www.youtube.com/watch?v=vlCXdvcgiE0&authuser=0)
+21) Github [REPOSITORIO](https://www.youtube.com/watch?v=vlCXdvcgiE0&authuser=0) [REPOSITORIO CREACION DE REPOSITORIO](https://github.com/Ale1203-gg/CREARREPOSITORIOS.git)
 22) Sitio Web [CREARPAGINA](https://www.youtube.com/watch?v=OZDKNqMXSxA&authuser=0) [PUBLICARSITIOWEB](https://www.youtube.com/watch?v=sLTNgxxSBR4&authuser=0)
 23) Markdown para documentacion tecnica en GITHUB [MARKDOWN](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
 
