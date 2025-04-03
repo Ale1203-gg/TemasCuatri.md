@@ -26,6 +26,7 @@
 
 21) Github [REPOSITORIO](https://www.youtube.com/watch?v=vlCXdvcgiE0&authuser=0) [REPOSITORIO CREACION DE REPOSITORIO](https://github.com/Ale1203-gg/CREARREPOSITORIOS.git)
 22) Sitio Web [CREARPAGINA](https://www.youtube.com/watch?v=OZDKNqMXSxA&authuser=0) [PUBLICARSITIOWEB](https://www.youtube.com/watch?v=sLTNgxxSBR4&authuser=0)
-23) Markdown para documentacion tecnica en GITHUB [MARKDOWN](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
+[REPOSITORIO CREAR PAGINA](https://github.com/Ale1203-gg/CREARPAGINAWEB.git)
+24) Markdown para documentacion tecnica en GITHUB [MARKDOWN](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
 
 
