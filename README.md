@@ -18,12 +18,13 @@
 12) Comandos de linux  [COMANDOSLINUX](https://www.ionos.mx/digitalguide/servidores/configuracion/scp-de-linux/?authuser=0)
 [REPOSITORIO COMANDOS LINUX](https://github.com/Ale1203-gg/COMANDOSLINUXSSH.git)
 14) UBUNTU [CAMBIARHOSTNAMEUBUNTU](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/?authuser=0)
-15) OverTheWire  [BANDIT](https://overthewire.org/wargames/bandit/?authuser=0)![LOGO](https://miro.medium.com/v2/resize:fit:520/1*qO7TM0hqCq9UjfHghAxyiA.jpeg)
-16) POSTMAN [POSTMAN](https://www.postman.com/)
-17) Primeros pasos con github [GITHUB](https://codegym.cc/es/groups/posts/es.379.primeros-pasos-con-git-una-guia-completa-para-principiantes?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOSzabMLHpRMMuS289T6E0aC_ysnrhs6xrA&s)
+[REPOSITORIO CAMBIAR HOSTNAME](https://github.com/Ale1203-gg/CAMBIARHOSTNAME.git)
+16) OverTheWire  [BANDIT](https://overthewire.org/wargames/bandit/?authuser=0)![LOGO](https://miro.medium.com/v2/resize:fit:520/1*qO7TM0hqCq9UjfHghAxyiA.jpeg)
+17) POSTMAN [POSTMAN](https://www.postman.com/)
+18) Primeros pasos con github [GITHUB](https://codegym.cc/es/groups/posts/es.379.primeros-pasos-con-git-una-guia-completa-para-principiantes?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOSzabMLHpRMMuS289T6E0aC_ysnrhs6xrA&s)
 
-18) Github [REPOSITORIO](https://www.youtube.com/watch?v=vlCXdvcgiE0&authuser=0)
-19) Sitio Web [CREARPAGINA](https://www.youtube.com/watch?v=OZDKNqMXSxA&authuser=0) [PUBLICARSITIOWEB](https://www.youtube.com/watch?v=sLTNgxxSBR4&authuser=0)
-20) Markdown para documentacion tecnica en GITHUB [MARKDOWN](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
+19) Github [REPOSITORIO](https://www.youtube.com/watch?v=vlCXdvcgiE0&authuser=0)
+20) Sitio Web [CREARPAGINA](https://www.youtube.com/watch?v=OZDKNqMXSxA&authuser=0) [PUBLICARSITIOWEB](https://www.youtube.com/watch?v=sLTNgxxSBR4&authuser=0)
+21) Markdown para documentacion tecnica en GITHUB [MARKDOWN](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown?authuser=0)![LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
 
 
